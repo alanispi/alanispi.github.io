@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://alanispi.github.io/sitemap.html.gz
+Sitemap: https://alanispi.github.io/app/sitemap.html.gz
+Sitemap: https://alanispi.github.io/assets/sitemap.html.gz
+Sitemap: https://alanispi.github.io/css/sitemap.html.gz
+Sitemap: https://alanispi.github.io/data/sitemap.html.gz
+Sitemap: https://alanispi.github.io/includes/sitemap.html.gz
+Sitemap: https://alanispi.github.io/item/sitemap.html.gz
+Sitemap: https://alanispi.github.io/src/sitemap.html.gz
